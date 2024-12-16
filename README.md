@@ -12,7 +12,7 @@ Este proyecto presenta una página web simple que muestra tres tarjetas de Poké
 
 ## 📸 Vista previa
 
-![Pagina con tarjetas](assets/Tarjetas_Pokémon "Paginas con tajertas")
+![Pagina con tarjetas](assets/Tarjetas_Pokémon.png "Paginas con tajertas")
 
 ### Tarjetas Pokémon
 Cada tarjeta tiene:
